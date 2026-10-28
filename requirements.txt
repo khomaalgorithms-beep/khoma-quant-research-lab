@@ -1,0 +1,19 @@
+# Core research stack
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+
+# Charts and dashboard
+matplotlib>=3.8
+plotly>=5.20
+streamlit>=1.50
+
+# Free historical market data (Yahoo Finance, unofficial)
+yfinance>=0.2.40
+
+# Testing
+pytest>=8.0
+
+# Running the research notebook (Jupyter / PyCharm notebook support)
+ipykernel>=6.29
+nbformat>=5.10

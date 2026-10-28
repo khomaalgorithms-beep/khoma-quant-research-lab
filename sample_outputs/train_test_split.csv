@@ -1,0 +1,7 @@
+strategy,period,cagr,annual_volatility,sharpe,max_drawdown
+Buy and Hold,In-sample (train),0.0207,0.1625,0.0852,-0.6253
+Buy and Hold,Out-of-sample (test),0.1014,0.1596,0.561,-0.3146
+Moving Average Trend (50/200),In-sample (train),0.0289,0.1167,0.133,-0.4401
+Moving Average Trend (50/200),Out-of-sample (test),0.0804,0.1375,0.4873,-0.2735
+Volatility-Targeted Trend,In-sample (train),0.0319,0.1088,0.161,-0.3889
+Volatility-Targeted Trend,Out-of-sample (test),0.0762,0.128,0.4831,-0.257

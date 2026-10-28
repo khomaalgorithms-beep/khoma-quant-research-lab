@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded market data (re-downloadable, and Yahoo's terms don't allow redistribution)
+data/cache/
+
+# Reports you generate locally
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets (this project needs none, but never commit them)
+.env
+*.key
